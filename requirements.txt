@@ -2,4 +2,3 @@ streamlit
 requests
 streamlit_echarts
 pandas
-base64
