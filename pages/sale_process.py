@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 from streamlit_echarts import st_echarts
 import pandas as pd
+import base64
 
 
 st.set_page_config(layout="wide")
@@ -1179,3 +1180,5 @@ with tab2 :
     st.markdown("* After all of those steps have been completed, congratulations to the user as they now own their very own Doodles NFT.")
     st.subheader("How to Buy NFT ? Watch video below")
     st.video('https://youtu.be/ZrP0pGIu_rs')
+
+    
