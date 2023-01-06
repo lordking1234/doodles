@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 from streamlit_echarts import st_echarts
 import pandas as pd
+import base64
 
 st.set_page_config(layout="wide")
 
@@ -67,7 +68,6 @@ st.markdown("""<style>.main {background-color: #C8D3E0;}</style>""",unsafe_allow
 #-------------------------------------------------------------------------------------------------
 with tab1 :
 
-  st.sidebar.header("Configuration")
 
   st.title("Doodles & Snapshot")
   st.image("https://media.discordapp.net/attachments/906600867698991105/1054035614095388702/02285da3-9816-460a-b264-db388c46d238.png?width=837&height=837")    
@@ -680,6 +680,7 @@ with tab3 :
         st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCkE_SoRHS2KfufYt8OTsRWvh7rpo-a9DKhfABCWCPSLxYfnUjo7KM0eACIhCHN-CrKg&usqp=CAU")
 
   #-------------------------------------------------------------------------------------------------
+
 
 
 
