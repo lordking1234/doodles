@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 from streamlit_echarts import st_echarts
 import pandas as pd
+import base64
 
 st.set_page_config(layout="wide")
   
@@ -1213,6 +1214,5 @@ with tab1 :
 with tab2 :
   
   st.title("It's summer!")
-  st.sidebar.header("Configuration")
 
-
+  
