@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 from streamlit_echarts import st_echarts
 import pandas as pd
+import base64
 
 
 st.set_page_config(layout="wide")
@@ -397,9 +398,9 @@ with tab2 :
     col50, col52  = st.columns([0.5, 0.5])
     with col50 : 
         st.markdown('**What is Treasury wallet?**')
-        st.markdown('A treasury system is a community controlled and decentral- ized collaborative decision-making mechanism for sustainable funding of the blockchain development and maintenance. During each treasury period, project proposals are submitted, discussed, and voted for; top- ranked projects are funded from the treasury.')
+        st.markdown('A treasury system is a community controlled and decentral- ized collaborative decision-making mechanism for sustainable funding of the blockchain development and maintenance. During each treasury period, project proposals are submitted, discussed, and voted for; top- ranked projects are funded from the treasury.')
         st.markdown('**Doodlebank**')
-        st.markdown('is the treasury section for the Doodles community, which holds more than 650 ETH. There is a community structure for voting, and each Doodle equals one vote when it comes to voting matters that relate to treasury funding projects.')
+        st.markdown('is the treasury section for the Doodles community, which holds more than 650 ETH. There is a community structure for voting, and each Doodle equals one vote when it comes to voting matters that relate to treasury funding projects.')
 
         # erea- chart 3
         st.markdown('* **Creator Fee in ETH and Cumulative amount**')
@@ -560,7 +561,7 @@ with tab2 :
         #--------------------------------------------------------------------------
     with col52 : 
         st.markdown('**Creator fees**')
-        st.markdown(' Creators can set a collection-level fee of up to 10%. This means creators can earn every time their NFT is sold . The creator can modify this fee percentage at any time and will receive creator earnings in real time. To learn how to set your creator earnings, you can read through our help center guide How do creator earnings work on OpenSea?')
+        st.markdown(' Creators can set a collection-level fee of up to 10%. This means creators can earn every time their NFT is sold . The creator can modify this fee percentage at any time and will receive creator earnings in real time. To learn how to set your creator earnings, you can read through our help center guide How do creator earnings work on OpenSea?')
         st.markdown('**Splitting creator fees**')
         st.markdown(' If you are creating a collection on behalf of someone or as part of a group, you can set up multiple payout addresses and specify the creator earnings per wallet in order to automatically split creator earnings.Each payout address added will count as a separate transaction, which can increase the gas prices your buyers pay.')
 
