@@ -278,22 +278,12 @@ with tab1 :
           ]
           }
     st_echarts(option2)
+    st.image('https://www.psyop.com/wp-content/uploads/2022/07/doodles-4.gif')
     st.markdown('')
     st.markdown('')
     st.markdown('')
     st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
-    st.markdown('')
+
 
 
   # erea-chart 2
