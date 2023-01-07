@@ -641,6 +641,8 @@ with tab1 :
         st_echarts(option)
 
         st.info('')
+        st.info('The last five pie charts show shares for marketplace which means where can we expect the most of doodle activities . These platforms were categorized based on the number of transactions and volume of transactions and other interesting metrics ')
+
     #-------------------------------------------------------------------------------------------------
     with col183 :
 
