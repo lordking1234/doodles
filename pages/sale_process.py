@@ -640,7 +640,7 @@ with tab1 :
             }
         st_echarts(option)
 
-        st.info('ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc')
+        st.info('')
     #-------------------------------------------------------------------------------------------------
     with col183 :
 
