@@ -70,7 +70,7 @@ st.markdown("""<style>.main {background-color: #C8D3E0;}</style>""",unsafe_allow
 
 with tab1 :
   # general metrics  #mint process 
-
+  st.info('Since this is a popular project in cryptocurrency, we decided to check the mint process of this project .pay attention that this project was launched on the Ethereum network and the contract address of this NFT collection is 0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e .')
   response = requests.get("https://node-api.flipsidecrypto.com/api/v2/queries/e83574aa-1661-4f64-94c0-27a7c9f4094b/data/latest")
 
   x = response.json()
