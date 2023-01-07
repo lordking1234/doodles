@@ -10,6 +10,11 @@ st.set_page_config(layout="wide")
 # background color 
 st.markdown("""<style>.main {background-color: #C8D3E0;color:#010101}</style>""",unsafe_allow_html=True)
 
+st.set_page_config(
+    page_title="Doodles",
+    page_icon = ":brain:",
+    layout="wide",
+    menu_items=dict(About="made by Austin"))
 
 hi = f"""
 <style>
