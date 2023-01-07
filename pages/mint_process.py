@@ -711,7 +711,6 @@ with tab1 :
     load_data()
     x = load_data()
     x
-    st.info('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
   #----------------------------------------------------------------------------------------------
   #---------------------------------------------------------------------------------------------
   with col2 :
@@ -1238,6 +1237,7 @@ with tab1 :
     # full_detailed tablel right 2
     
     st.markdown('* **Top 10 minter based on Tokens Number**')
+    st.markdown('')
     response = requests.get("https://node-api.flipsidecrypto.com/api/v2/queries/60e86b08-b17c-49cd-98f2-25812e55c923/data/latest")
     x = response.json()
     def load_data() : 
