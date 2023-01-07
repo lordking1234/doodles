@@ -1182,6 +1182,7 @@ with tab2 :
     st.markdown("* Buy now! ")
     st.markdown("* After all of those steps have been completed, congratulations to the user as they now own their very own Doodles NFT.")
     st.subheader("How to Buy NFT ? Watch video below")
+    st.info('')
     st.video('https://youtu.be/ZrP0pGIu_rs')
 
     
