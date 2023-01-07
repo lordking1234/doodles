@@ -8,21 +8,14 @@ st.set_page_config(layout="wide")
   
 
 # background color 
-st.markdown("""<style>.main {background-color: #C8D3E0;}</style>""",unsafe_allow_html=True)
-
-# background pucture  
-#@st.experimental_memo
-#def get_img_as_base64(file):
-#    with open(file, "rb") as f:
-#        data = f.read()
-#    return base64.b64encode(data).decode()
+st.markdown("""<style>.main {background-color: #C8D3E0;color:#010101}</style>""",unsafe_allow_html=True)
 
 
 hi = f"""
 <style>
 [data-testid="stAppViewContainer"] > .main {{
 background-image: url("https://img.freepik.com/premium-vector/blue-white-gray-turquoise-background-gradient-wallpaper-background-vector-illustration_172010-1295.jpg?w=360");
-background-size: 180%;
+background-size: 240%;
 background-position: top right;
 background-repeat: no-repeat;
 background-attachment: local;
