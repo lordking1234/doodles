@@ -1216,7 +1216,15 @@ with tab1 :
     st.markdown("")
     st.markdown("")
     st.markdown("")
-
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
 
     # full_detailed tablel right 1
     st.markdown('* **Top 10 Minter based on Transaction Number**')
