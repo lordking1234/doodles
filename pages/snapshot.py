@@ -190,7 +190,7 @@ with tab1 :
     st_echarts( option)
 
   with col13  :
-    st.info('')
+    st.image('https://lh3.googleusercontent.com/_mOxu2mO82aF6meF7J-5STdsgTn2_anfeQ9pozaTeTgBL6U9MbsOnlroCcO8oaeyQqvQKVhjCRibC0GvhDR6DnmGiBsoXwwO6wKJMA')
    
 
 
