@@ -34,7 +34,6 @@ st.markdown("""<style>.main {background-color: #C8D3E0;}</style>""",unsafe_allow
 #    return base64.b64encode(data).decode()
 
 
-#img = get_img_as_base64("image.jpg")
 
 #page_bg_img = f"""
 #<style>
@@ -190,8 +189,7 @@ with tab1 :
     st_echarts( option)
 
   with col13  :
-    st.image('https://lh3.googleusercontent.com/_mOxu2mO82aF6meF7J-5STdsgTn2_anfeQ9pozaTeTgBL6U9MbsOnlroCcO8oaeyQqvQKVhjCRibC0GvhDR6DnmGiBsoXwwO6wKJMA')
-   
+    st.image('https://images.squarespace-cdn.com/content/v1/61ac9cf1e52ca44ca9f17a09/d34ee92e-cb24-4cc2-ac69-89be58803d95/Doodles.gif')
 
 
   #-------------------------------------------------------------------------------------------------
