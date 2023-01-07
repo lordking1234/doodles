@@ -1173,6 +1173,7 @@ with tab1 :
 
 
 with tab2 : 
+    st.info('')
     st.subheader("How to Buy Doodles")
     st.markdown("Users who wish to purchase a Doodles NFT can do so in just a few steps:")
     st.markdown("* Go to an NFT marketplace like as OpenSea, LooksRare, and X2Y2.")
