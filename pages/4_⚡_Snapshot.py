@@ -644,7 +644,7 @@ with tab1 :
   #-------------------------------------------------------------------------------------------------
   # full_detailed tablel
 with tab2 :
-    st.markdown('* **Top Voters over Time**')
+    st.markdown('* **Full detailed Table**')
     response = requests.get("https://node-api.flipsidecrypto.com/api/v2/queries/8feecb1d-4b13-42e3-bb6c-c23c92bf84ad/data/latest")
     x = response.json()
     def load_data() : 
