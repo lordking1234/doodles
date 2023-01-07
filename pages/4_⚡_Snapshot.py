@@ -579,7 +579,7 @@ with tab1 :
     st.markdown("")
 
 
-  st.markdown('* **Full detailed Table**')
+  st.markdown('* **Top 10 Voters**')
   response = requests.get("https://node-api.flipsidecrypto.com/api/v2/queries/8fa8dde0-15e9-4447-b784-2912937bb80d/data/latest")
   x = response.json()
   y = response.json()
