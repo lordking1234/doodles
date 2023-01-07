@@ -4,16 +4,16 @@ import streamlit as st
 #import pandas as pd
 #import base64
 
-  
-
-# background color 
-st.markdown("""<style>.main {background-color: #C8D3E0;color:#010101}</style>""",unsafe_allow_html=True)
 
 st.set_page_config(
     page_title="Doodles",
     page_icon = ":brain:",
     layout="wide",
     menu_items=dict(About="made by Austin"))
+
+# background color 
+st.markdown("""<style>.main {background-color: #C8D3E0;color:#010101}</style>""",unsafe_allow_html=True)
+
 
 hi = f"""
 <style>
