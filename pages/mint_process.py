@@ -1073,6 +1073,12 @@ with tab1 :
     st.markdown('')
     st.markdown('')
     st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')   
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
 #----------------------------------------------------------------------------------------------
 
     st.markdown('* **Top 10 minter based on Transactions Volume in ETH**')    
