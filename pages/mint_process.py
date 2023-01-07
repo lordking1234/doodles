@@ -987,6 +987,8 @@ with tab1 :
     st.markdown('')   
     st.markdown('')
     st.markdown('')
+    st.markdown('')
+    st.markdown('')
 #----------------------------------------------------
 
     st.markdown('* **Distribution of ETH Paid for Mint Per Minters**')    
