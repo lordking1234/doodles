@@ -288,6 +288,7 @@ with tab1 :
 
 
         st.markdown('* **Cumulative & daily Number of Buyers**')
+        st.markdown('')
         response = requests.get("https://node-api.flipsidecrypto.com/api/v2/queries/63331be5-f751-43bb-b6c2-7956893136eb/data/latest")
 
         x = response.json()
