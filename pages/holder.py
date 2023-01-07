@@ -385,6 +385,9 @@ with tab2 :
         st.markdown('A treasury system is a community controlled and decentral- ized collaborative decision-making mechanism for sustainable funding of the blockchain development and maintenance. During each treasury period, project proposals are submitted, discussed, and voted for; top- ranked projects are funded from the treasury.')
         st.markdown('**Doodlebank**')
         st.markdown('is the treasury section for the Doodles community, which holds more than 650 ETH. There is a community structure for voting, and each Doodle equals one vote when it comes to voting matters that relate to treasury funding projects.')
+        st.markdown('')
+        st.markdown('')
+        st.markdown('')
 
         # erea- chart 3
         st.markdown('* **Creator Fee in ETH and Cumulative amount**')
