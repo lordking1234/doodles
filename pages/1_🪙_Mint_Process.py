@@ -4,8 +4,12 @@ from streamlit_echarts import st_echarts
 import pandas as pd
 import base64
 
-st.set_page_config(layout="wide")
-  
+
+st.set_page_config(
+    page_title="Mint_Process",
+    page_icon = ":coin:",
+    layout="wide",
+    menu_items=dict(About="made by Austin"))  
 
 
 #-------------------------------------------------------------------------------------------------
