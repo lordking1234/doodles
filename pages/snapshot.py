@@ -100,8 +100,8 @@ with tab1 :
   col4.metric("Number Of Total Authors", w[0])
 
   col12, col13 = st.columns (2)
-  col12.info('ssldjldkkkdd')
-  col13.info('sdsfsdffdffdf')
+  col12.info('')
+  col13.info('')
   #-------------------------------------------------------------------------------------------------
 
   col12, col13 = st.columns ([2,0.5])
@@ -190,7 +190,7 @@ with tab1 :
     st_echarts( option)
 
   with col13  :
-    st.info('hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh')
+    st.info('')
    
 
 
@@ -280,7 +280,22 @@ with tab1 :
           ]
           }
     st_echarts(option2)
-    st.markdown('hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
+    st.markdown('')
 
 
   # erea-chart 2
@@ -507,9 +522,9 @@ with tab1 :
   #-------------------------------------------------------------------------------------------------
   col12, col13 = st.columns (2)
   with col12  : 
-      st.markdown("11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111Number Of Total Vote")
+      st.markdown("")
   with col13  : 
-      st.markdown("1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111Number of Total Proposals")
+      st.info("")
 
   #-------------------------------------------------------------------------------------------------
   # bar chart 
