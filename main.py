@@ -4,7 +4,6 @@ import streamlit as st
 #import pandas as pd
 #import base64
 
-st.set_page_config(layout="wide")
   
 
 # background color 
