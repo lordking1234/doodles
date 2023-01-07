@@ -189,8 +189,7 @@ with tab1 :
     st_echarts( option)
 
   with col13  :
-    st.image('https://images.squarespace-cdn.com/content/v1/61ac9cf1e52ca44ca9f17a09/d34ee92e-cb24-4cc2-ac69-89be58803d95/Doodles.gif')
-
+    st.info('')
 
   #-------------------------------------------------------------------------------------------------
   # erea-chart 1
