@@ -390,8 +390,13 @@ with tab1 :
         ]
         }
     st_echarts(option)
-    st.info('* **111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111**')    
-  #----------------------------------------------------
+    st.info('* **In this section, let''s take a deeper look at these minters and categorize them based on :**')
+
+    st.markdown('* **their number of transactions**')
+
+    st.markdown('* **The number of NFTs that have minted based on the amount of ETH they paid**')
+    st.markdown('* **the amount of fees they paid based on ETH**')   
+    #----------------------------------------------------
     st.markdown('* **Distribution of Number of Mint Transactions per Minter**')    
     #pie - chart left 1
     response = requests.get("https://node-api.flipsidecrypto.com/api/v2/queries/e1e3ecd3-e3f4-44d2-9fbd-9a9436f66ee9/data/latest")
@@ -975,7 +980,7 @@ with tab1 :
         ]
         }
     st_echarts(option14) 
-    st.info('* **111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111**')    
+    st.image('https://www.psyop.com/wp-content/uploads/2022/07/doodles.gif')    
 #----------------------------------------------------
 
     st.markdown('* **Distribution of ETH Paid for Mint Per Minters**')    
