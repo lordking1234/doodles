@@ -983,7 +983,10 @@ with tab1 :
     st.image('https://www.psyop.com/wp-content/uploads/2022/07/doodles.gif')    
     st.markdown('')
     st.markdown('')
-
+    st.markdown('')
+    st.markdown('')   
+    st.markdown('')
+    st.markdown('')
 #----------------------------------------------------
 
     st.markdown('* **Distribution of ETH Paid for Mint Per Minters**')    
