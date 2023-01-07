@@ -1212,6 +1212,10 @@ with tab1 :
 
 with tab2 :
   
-  st.title("It's summer!")
 
+  st.title("Mint Process!")
+  st.markdown('In just a few short months, Doodles has transformed into one of the most influential and beloved NFT projects in existence. The collection of colorful line-drawn characters has, quite literally, swept across the globe and ranks high on the list of top PFP (profile-picture) collections in terms of both popularity and sales volume. Doodles is a collection of 10,000 generative NFTs created by Evan Keast, Scott Martin, and Jordan Castro.')
+  st.markdown('Keast, Castro, and Martin launched Doodles on October 17, 2021, originally pricing their product at 0.123 ETH per mint. At the time, the mint price was considered relatively high. Prior to Doodles, most PFP projects implemented mint prices below 0.1 ETH; however, the Doodles founding team decided on this higher price point to ensure an initial treasury of ~420 ETH.')
+  st.markdown('During the rollout of the project, Doodles tried something that had seemingly never been executed by a PFP project previously. About a month before the project went live for minting, the Doodles team closed the Discord when membership numbers had reached just over 1,000. This made it so that no new members could join, creating an extra level of exclusivity within the project’s community.')
+  st.markdown('This decision received mixed reviews, as it effectively gave whitelist access (priority minting) to a select few. Yet, as the Doodles mint date drew closer, the project’s following continued to grow, and the decision to close the Discord started to be seen as an innovative way to reward early NFT project supporters.')
   
