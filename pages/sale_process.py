@@ -66,7 +66,7 @@ tab1, tab2 = st.tabs(
 
 #-------------------------------------------------------------------------------------------------
 # background color 
-st.markdown("""<style>.main {background-color: #C8D3E0;}</style>""",unsafe_allow_html=True)
+st.markdown("""<style>.main {background-color: #C8D3E0;color:#010101}</style>""",unsafe_allow_html=True)
 
 #------------------------------------------------------------------------------------------------
 
