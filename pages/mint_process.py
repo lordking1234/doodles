@@ -104,9 +104,6 @@ with tab1 :
   col3.metric("Number of NFT Minted (Total supply)", z[0])
   col4.metric("Volume of ETH paid for mint", w[0])
 
-  col12, col13 = st.columns (2)
-  col12.info('ssldjldkkkdd')
-  col13.info('sdsfsdffdffdf')
 
   col1, col2, col3,col4 = st.columns([0.5, 0.5, 0.5, 0.5])
   col1.metric("Volume of USD paid for mint", c[0])
@@ -117,11 +114,13 @@ with tab1 :
 
   #-------------------------------------------------------------------------------------------------
 
+
   col1, col2 = st.columns([0.5, 1.5])
   with col1 :
     st.metric("Volume of ETH paid for Fee in Average", m[0])
   with col2 : 
-    st.info('sdsdsdsddddddddddddddddddddddddddddddddddddddddddddddddddd')
+    st.markdown('')
+  st.info('As we can see, Nearly 1852 people have minted these NFTs with nearly 2148 transactions  . nearly 18k ETH have been paid as transaction fees Which is a huge number compared to the 1174 ETH paid for minting .Out Of the 10,000 unique tokens to this project, all of them have been minted by the community. Each minter paid 0.1174 ETH in Average for minting but it seems they paid 1.79 ETH just for Network fee in Average .')
 
   #-------------------------------------------------------------------------------------------------
   col1, col2 = st.columns([0.5, 0.5])
