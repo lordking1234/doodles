@@ -29,7 +29,7 @@ hi = f"""
 <style>
 [data-testid="stAppViewContainer"] > .main {{
 background-image: url("https://img.freepik.com/premium-vector/blue-white-gray-turquoise-background-gradient-wallpaper-background-vector-illustration_172010-1295.jpg?w=360");
-background-size: 360%;
+background-size: 420%;
 background-position: top right;
 background-repeat: no-repeat;
 background-attachment: local;
