@@ -125,7 +125,7 @@ with tab1 :
     with col12 :
         st.info('')
     with col13 :
-        st.info('sdsfsdffdffdf')
+        st.info('')
 
     col21, col22, col23,col24 = st.columns([0.5, 0.5, 0.5, 0.5])
     with col21 :
@@ -161,9 +161,9 @@ with tab1 :
 
     col53,col54 = st.columns([0.5, 0.5])
     with col53 :
-        st.info("Volume of Network's Fee in ETH") 
+        st.info("") 
     with col54 :
-        st.info("Volume of Network's Fee in USD") 
+        st.info("") 
 
 
     col182, col183 = st.columns ([1,1])
