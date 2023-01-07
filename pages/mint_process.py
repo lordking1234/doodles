@@ -1061,7 +1061,7 @@ with tab1 :
       ]
     }
     st_echarts(option18)
-    st.info("sssssssssssssssssssssssssssssssssssssssddddddddddddddddsddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddsddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddsddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd")
+    st.info("Also, in the tables below , the top 10 minters are shown based on the mentioned metrics. You can also see more information by scrolling downside.")
 #----------------------------------------------------------------------------------------------
 
     st.markdown('* **Top 10 minter based on Transactions Volume in ETH**')    
