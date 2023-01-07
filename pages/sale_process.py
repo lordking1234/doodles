@@ -123,7 +123,7 @@ with tab1 :
 
     col12, col13 = st.columns (2)
     with col12 :
-        st.info('ssldjldkkkdd')
+        st.info('')
     with col13 :
         st.info('sdsfsdffdffdf')
 
