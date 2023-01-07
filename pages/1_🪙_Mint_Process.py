@@ -6,11 +6,10 @@ import base64
 
 
 st.set_page_config(
-    page_title="Mint_Process",
-    page_icon = ":coin:",
+    page_title="Doodles",
+    page_icon = ":brain:",
     layout="wide",
-    menu_items=dict(About="made by Austin"))  
-
+    menu_items=dict(About="made by ALI and AUstin"))
 
 #-------------------------------------------------------------------------------------------------
 # header  
