@@ -72,7 +72,7 @@ with col3 :
   st.metric("Average NET ETH Profit / Loss Per Traders", y[0])
 with col4 : 
   st.markdown('')
-
+st.info('')
 
 with open('model1.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
@@ -172,6 +172,7 @@ with col11 :
   load_data()
   rrr2 = load_data()
   rrr2
+st.info('')
 
 with col12 : 
 
