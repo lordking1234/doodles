@@ -85,3 +85,6 @@ with col13 :
 
 with col14 :
     st.empty()
+    
+st.info("* **made by ALI and Austin")
+
