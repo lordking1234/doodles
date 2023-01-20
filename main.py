@@ -87,4 +87,4 @@ with col14 :
     st.empty()
     
 st.info("* **made by ALI and Austin**")
-
+st.info("https://github.com/lordking1234/doodles")
